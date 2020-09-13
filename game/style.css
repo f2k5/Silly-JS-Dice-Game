@@ -1,0 +1,30 @@
+body {
+    background: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.player1 {
+    position: relative;
+    display: inline-block;
+    padding-right: 70px;
+}
+
+.player2 {
+    position: relative;
+    display: inline-block;
+}
+
+#p1, #p2 {
+    height: 125px;
+    width: 125px;
+}
+
